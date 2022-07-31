@@ -79,7 +79,7 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://zekais-api.herokuapp.com': 'apikeymu',
   'https://api.lolhuman.xyz': 'Deffbotz',
-  'https://zenzapis.xyz/' : '1f5fe2ce6c7a',
+  'https://zenzapis.xyz/' : 'e87e334de1ea',
 }
 
 //=============『 RPG GAMES 』================== //
