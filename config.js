@@ -8,7 +8,7 @@ global.nameowner = 'AbaraiRenji⛧⁩⁩'
 global.numberowner = '6283841403395'
 global.instagram = 'https://www.instagram.com/arsaandii'
 global.github = 'https://github.com/gmpyyy'
-global.dana = '087898307350'
+global.dana = '-'
 global.pulsa = '083841403395'
 global.gopay = '-'
 
